@@ -1,7 +1,7 @@
 ## Portfolio
 ### Computer Vision Projects
 [Surgical Gesture Recognition](https://github.com/krishnanpooja/Master-Thesis)
-<img src="images/latest_video.gif"?raw=true"/>
+<img src="images/latest_video.gif?raw=true"/>
 ---
 
 
