@@ -8,8 +8,8 @@
 <img src="images/bach-poster.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Count Cells](https://github.com/krishnanpooja/Segmentation-projects)
+<img src="images/count_diff_cells.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
