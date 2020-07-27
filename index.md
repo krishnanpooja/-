@@ -8,6 +8,10 @@
 <img src="images/bach-poster.png?raw=true"/>
 
 ---
+[Zoom-in-net](https://github.com/krishnanpooja/Zoom-in-net)
+<img src="images/zoom-in-net.png?raw=true"/
+
+---
 [Count Cells](https://github.com/krishnanpooja/Segmentation-projects)
 <img src="images/count_diff_cells.png?raw=true"/>
 
