@@ -4,8 +4,8 @@
 
 ### Computer Vision Projects
 
-[BACH-PixelWiseLabeling](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[BACH-PixelWiseLabeling](https://github.com/krishnanpooja/BACH-PixelWiseLabeling)
+<img src="images/bach-poster.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
