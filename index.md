@@ -18,16 +18,10 @@
 
 ---
 Gerneral Machine Learning 
+- [Claasification, Regression, Dimensionality Reduction, Clustering](https://github.com/krishnanpooja/MachineLearningCode/tree/master/Downloads)
+- [Mining Massive Datasets](https://github.com/krishnanpooja/Mininng-Massive-Datasets)
 - [Fault Localization](https://github.com/krishnanpooja/Fault-Localization)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
+- [GRUNDLAGEN DER KUNSTLICHEN INTELLIGENZ WS 2017/2018](https://github.com/krishnanpooja/Artificial-Intelligence)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
