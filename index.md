@@ -14,7 +14,7 @@
 ---
 ### Category Name 2
 [Inverse Reinforcement Learning - Rolling Pin Approach](https://github.com/krishnanpooja/IRL_Rolling_Pin_Approach)
-<img src="images/cars.jpg?raw=true"/>
+<img src="images/cars.png?raw=true"/>
 
 ---
 
