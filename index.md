@@ -9,7 +9,7 @@
 
 ---
 [Zoom-in-net](https://github.com/krishnanpooja/Zoom-in-net)
-<img src="images/zoom-in-net.png?raw=true"/
+<img src="images/zoom-in-net.png?raw=true"/>
 
 ---
 [Count Cells](https://github.com/krishnanpooja/Segmentation-projects)
