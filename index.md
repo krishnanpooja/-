@@ -12,12 +12,13 @@
 <img src="images/count_diff_cells.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Category Name 2
+[Inverse Reinforcement Learning - Rolling Pin Approach](https://github.com/krishnanpooja/IRL_Rolling_Pin_Approach)
+<img src="images/cars.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
