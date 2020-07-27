@@ -4,7 +4,6 @@
 <img src="images/latest_video.gif?raw=true"/>
 ---
 
-
 [BACH-PixelWiseLabeling](https://github.com/krishnanpooja/BACH-PixelWiseLabeling)
 <img src="images/bach-poster.png?raw=true"/>
 
@@ -22,7 +21,7 @@
 <img src="images/cars.png?raw=true"/>
 
 ---
-General Machine Learning 
+### General Machine Learning 
 - [Claasification, Regression, Dimensionality Reduction, Clustering](https://github.com/krishnanpooja/MachineLearningCode/tree/master/Downloads)
 - [Mining Massive Datasets](https://github.com/krishnanpooja/Mininng-Massive-Datasets)
 - [Fault Localization](https://github.com/krishnanpooja/Fault-Localization)
