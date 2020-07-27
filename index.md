@@ -17,7 +17,7 @@
 <img src="images/cars.png?raw=true"/>
 
 ---
-Gerneral Machine Learning 
+General Machine Learning 
 - [Claasification, Regression, Dimensionality Reduction, Clustering](https://github.com/krishnanpooja/MachineLearningCode/tree/master/Downloads)
 - [Mining Massive Datasets](https://github.com/krishnanpooja/Mininng-Massive-Datasets)
 - [Fault Localization](https://github.com/krishnanpooja/Fault-Localization)
