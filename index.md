@@ -22,7 +22,7 @@
 
 ---
 ### General Machine Learning 
-- [Claasification, Regression, Dimensionality Reduction, Clustering](https://github.com/krishnanpooja/MachineLearningCode/tree/master/Downloads)
+- [Classification, Regression, Dimensionality Reduction, Clustering](https://github.com/krishnanpooja/MachineLearningCode/tree/master/Downloads)
 - [Mining Massive Datasets](https://github.com/krishnanpooja/Mininng-Massive-Datasets)
 - [Fault Localization](https://github.com/krishnanpooja/Fault-Localization)
 - [GRUNDLAGEN DER KUNSTLICHEN INTELLIGENZ WS 2017/2018](https://github.com/krishnanpooja/Artificial-Intelligence)
