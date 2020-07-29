@@ -26,6 +26,7 @@
 - [Mining Massive Datasets](https://github.com/krishnanpooja/Mininng-Massive-Datasets)
 - [Fault Localization](https://github.com/krishnanpooja/Fault-Localization)
 - [GRUNDLAGEN DER KUNSTLICHEN INTELLIGENZ WS 2017/2018](https://github.com/krishnanpooja/Artificial-Intelligence)
+- [Interview Notes](https://github.com/krishnanpooja/Notes)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
