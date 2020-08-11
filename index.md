@@ -37,7 +37,7 @@
 
 ---
 ### Working on...
-[Video Summarization](github.com/krishnanpooja/Video-Summarization)
+[Video Summarization](https://github.com/krishnanpooja/Video-Summarization)
 
 <iframe src="https://drive.google.com/file/d/1XUcNdZBLd4cTJw855aUPXWqd8UciWJqu/preview" width="240" height="150"></iframe>
 ---
