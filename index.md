@@ -3,11 +3,6 @@
 [Surgical Gesture Recognition](https://github.com/krishnanpooja/Master-Thesis)
 
 <img src="images/latest_video.gif?raw=true"/>
----
-[Video Summarization](github.com/krishnanpooja/Video-Summarization)
-Summarized 1:14 min video 
-<iframe src="https://drive.google.com/file/d/1XUcNdZBLd4cTJw855aUPXWqd8UciWJqu/preview" width="240" height="150"></iframe>
-
 ----
 [BACH-PixelWiseLabeling](https://github.com/krishnanpooja/BACH-PixelWiseLabeling)
 
@@ -40,4 +35,9 @@ Summarized 1:14 min video
 - [GRUNDLAGEN DER KUNSTLICHEN INTELLIGENZ WS 2017/2018](https://github.com/krishnanpooja/Artificial-Intelligence)
 - [Interview Notes](https://github.com/krishnanpooja/Notes)
 
+---
+### Working on...
+[Video Summarization](github.com/krishnanpooja/Video-Summarization)
+Summarized 1:14min to 59sec video 
+<iframe src="https://drive.google.com/file/d/1XUcNdZBLd4cTJw855aUPXWqd8UciWJqu/preview" width="240" height="150"></iframe>
 ---
