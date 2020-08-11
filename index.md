@@ -1,10 +1,19 @@
 ## Portfolio
 ### Computer Vision Projects
 [Surgical Gesture Recognition](https://github.com/krishnanpooja/Master-Thesis)
+
 <img src="images/latest_video.gif?raw=true"/>
 ---
+[Video Summarization](github.com/krishnanpooja/Video-Summarization)
+
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1XUcNdZBLd4cTJw855aUPXWqd8UciWJqu/view?usp=sharing" frameborder="0"> </iframe>
+</figure>
+
+----
 
 [BACH-PixelWiseLabeling](https://github.com/krishnanpooja/BACH-PixelWiseLabeling)
+
 <img src="images/bach-poster.png?raw=true"/>
 ---
 
