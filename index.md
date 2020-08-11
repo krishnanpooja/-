@@ -6,9 +6,7 @@
 ---
 [Video Summarization](github.com/krishnanpooja/Video-Summarization)
 
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1XUcNdZBLd4cTJw855aUPXWqd8UciWJqu/view?usp=sharing" frameborder="0"> </iframe>
-</figure>
+<iframe src="https://drive.google.com/file/d/1XUcNdZBLd4cTJw855aUPXWqd8UciWJqu/preview" width="640" height="480"></iframe>
 
 ----
 [BACH-PixelWiseLabeling](https://github.com/krishnanpooja/BACH-PixelWiseLabeling)
