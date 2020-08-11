@@ -5,8 +5,8 @@
 <img src="images/latest_video.gif?raw=true"/>
 ---
 [Video Summarization](github.com/krishnanpooja/Video-Summarization)
-
-<iframe src="https://drive.google.com/file/d/1XUcNdZBLd4cTJw855aUPXWqd8UciWJqu/preview" width="640" height="480"></iframe>
+Summarized 1:14 min video 
+<iframe src="https://drive.google.com/file/d/1XUcNdZBLd4cTJw855aUPXWqd8UciWJqu/preview" width="240" height="150"></iframe>
 
 ----
 [BACH-PixelWiseLabeling](https://github.com/krishnanpooja/BACH-PixelWiseLabeling)
