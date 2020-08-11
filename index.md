@@ -11,19 +11,14 @@
 </figure>
 
 ----
-
 [BACH-PixelWiseLabeling](https://github.com/krishnanpooja/BACH-PixelWiseLabeling)
 
 <img src="images/bach-poster.png?raw=true"/>
 ---
-
-
 [Aerial Image Segmentation](https://github.com/krishnanpooja/Segmentation-projects/tree/master/Aerial%20Image%20Segmentation)
 
 <img src="images/aerial_image.png?raw=true"/>
 ---
-
-
 [Zoom-in-net](https://github.com/krishnanpooja/Zoom-in-net)
 
 <img src="images/zoom-in-net.png?raw=true"/>
